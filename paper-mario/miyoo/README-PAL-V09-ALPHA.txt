@@ -29,11 +29,3 @@ from other builds have not been generally validated for migration; save states
 are tied to the exact executable build and may be rejected. Clean-RC1 test
 states use this same binary, but a copied state must still be checked. Start a
 new game if unsure. Keep a working backup until loading has been verified.
-
-Test status
------------
-The user reports successful Clean-RC1 smoke and regression tests on Miyoo Mini
-Plus, including saves, states, the HeartBlock, Superblock, Merlee, Lava Piranha
-and Vulkan. The earlier M3.1 build, not Clean-RC1, received a full playthrough.
-This package uses the tested Clean-RC1 executable, build stamp 7F13DC13.
-Source and build details are available in PAL_V09_BUILD.md and PAL_V09_CHANGELOG.md.
