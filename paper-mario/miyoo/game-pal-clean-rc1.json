@@ -1,0 +1,25 @@
+{
+  "id": "pm64pal09cleanrc1",
+  "identity": "PAL-0.9-ALPHA-CLEAN-RC1",
+  "title": "Paper Mario PAL",
+  "folder": "PaperMarioPAL09CleanRC1",
+  "exe": "pm64",
+  "files": [
+    "pm64",
+    "recipes.bin"
+  ],
+  "icon": "icon.png",
+  "readme": "README-PAL-CLEAN-RC1.txt",
+  "env": "PM64",
+  "data": "data",
+  "empty_dirs": [
+    "data"
+  ],
+  "rom": {
+    "name": "Paper Mario (Europe, PAL)",
+    "sha1": "2111d39265a317414d359e35a7d971c4dfa5f9e1",
+    "size": 67108864
+  },
+  "system": "PAPERMARIOPAL09CLEANRC1",
+  "minui_tag": "PM64PAL09CLEANRC1"
+}
