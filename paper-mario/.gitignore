@@ -81,3 +81,7 @@ build/
 # Clean gameplay candidate metadata.
 !miyoo/game-pal-clean-rc1.json
 !miyoo/README-PAL-CLEAN-RC1.txt
+!miyoo/game-pal-v09-alpha.json
+!miyoo/README-PAL-V09-ALPHA.txt
+!PAL_V09_BUILD.md
+!PAL_V09_CHANGELOG.md
